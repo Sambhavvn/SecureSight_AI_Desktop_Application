@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Model files (if large)
+# best_model.pth  # Uncomment if model >100MB (use Git LFS instead)
+
+# Build outputs
+build/
+dist/
+*.spec
